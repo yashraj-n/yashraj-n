@@ -1,4 +1,4 @@
-### Hi there, I'm [Yashraj](http://yashraj-narke.cf/)- aka [BrutaL](https://discord.bio/p/brutal)
+### Hi there, I'm [Yashraj](http://yashraj-narke.cf/)
 
 ## I'm a Programmer and Student
 
