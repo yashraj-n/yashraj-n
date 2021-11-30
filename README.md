@@ -18,7 +18,7 @@ const Cosi= {
         backEnd: {
             js: ["firebase", "node"],
             go: ["mux", "HTTP"],
-            python: ["Flask"]
+            python: ["Flask"],
             java: ["spark"]     ​
        ​}        
    ​}
