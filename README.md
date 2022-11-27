@@ -7,19 +7,20 @@
 ### aboutMe.js
 
 ```javascript
-const Cosi= {
+const Yashraj = {
     pronouns: "he" | "him",
-    code: [JavaScript, HTML, CSS, Golang, C++, c#, Java, NASM, Python, TypeScript ],
+    code: ["JavaScript", "HTML", "CSS", "Golang", "C++", "C#", "Java", "Python", "TypeScript", "Rust" ],
     askMeAbout: ["Web Devlopment", "Gaming", "Cyber Security", "Music", "Anime", "Linux"],
     technologies: {
         frontEnd: {
-            css: ["Bootstrap", "Tailwind", "Bulma", "Materialize"]
+            css: ["Bootstrap", "Tailwind", "Bulma", "Materialize", "React", "Next", "Svelte", "Vite"]
         },
         backEnd: {
             js: ["firebase", "node"],
             go: ["mux", "HTTP"],
             python: ["Flask"],
-            java: ["spark"]     ​
+            java: ["spark"],
+            rust: ["actix_web", "Nickel"]​
        ​}        
    ​}
 };
