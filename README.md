@@ -2,8 +2,7 @@
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/NarkeYashraj?style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=yashraj-n)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyashraj-n&countColor=%2337d67a)
 ### aboutMe.js
 
 ```javascript
