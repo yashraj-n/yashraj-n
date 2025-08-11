@@ -6,7 +6,6 @@
 .env.production.local
 
 node_modules
-dist
 build
 .next
 .vscode
