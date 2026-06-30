@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yashraj" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Yashraj" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,35 +8,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate **Full Stack Developer** with a love for building scalable, efficient, and user-friendly applications. My journey in tech started with a curiosity about how things work, and now I'm crafting digital solutions that make a difference.
+I am a Software Development Engineer (SDE) focused on building high-performance backend systems, distributed architectures, and robust web applications. I enjoy solving complex engineering challenges, from low-level systems programming to containerization and cloud infrastructure. I also write blogs at [blogs.yashrajn.com](https://blogs.yashrajn.com)
 
-### What I Do
-- 🔧 **Backend Development** - Building robust APIs and microservices
-- 🎨 **Frontend Development** - Creating beautiful, responsive user interfaces  
-- 🤖 **AI/ML Integration** - Leveraging cutting-edge AI technologies
-- ☁️ **Cloud Architecture** - Designing scalable cloud solutions
-- 🔒 **DevOps & Security** - Ensuring reliable and secure deployments
-
-### What Drives Me
-- **Problem Solving** - I love tackling complex challenges and finding elegant solutions
-- **Learning** - Always exploring new technologies and best practices
-- **Open Source** - Contributing to the community and sharing knowledge
-- **Innovation** - Building the future, one line of code at a time
+### Focus Areas
+- **Systems & Backend** - Engineering high-throughput APIs, microservices, and distributed systems (primarily in Go).
+- **Platform & Infrastructure** — Orchestrating applications with Docker/Kubernetes and managing cloud infrastructure.
+- **Full-Stack Development** — Building modern web interfaces integrated with reliable data layers and caching.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashraj-n&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Go](https://skillicons.dev/icons?i=go)
@@ -87,16 +70,14 @@ I'm a passionate **Full Stack Developer** with a love for building scalable, eff
 
 ---
 
-## 🎯 Current Focus
+## GitHub Stats
 
-- 🔥 **Building Scalable Microservices** - Architecting robust backend systems
-- 🎨 **Modern Web Applications** - Creating intuitive user experiences
-- 🤖 **AI-Powered Solutions** - Integrating machine learning into applications
-- ☁️ **Cloud-Native Development** - Leveraging cloud technologies for scalability
-- 📱 **Cross-Platform Development** - Building for web, mobile, and desktop
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashraj-n&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
+
+</div>
 
 ---
-
 
 ### My Github Snake (:
 <div align="center">
@@ -112,7 +93,7 @@ I'm a passionate **Full Stack Developer** with a love for building scalable, eff
 
 ---
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 ### [Creating Containers from Scratch](https://blog.yashrajn.com/containers-from-scratch/)
 *Understanding the fundamentals of containerization by building containers from the ground up using Linux namespaces, cgroups, and Go.*
@@ -120,18 +101,6 @@ I'm a passionate **Full Stack Developer** with a love for building scalable, eff
 A deep dive into how containers work under the hood, exploring Linux namespaces, control groups, and networking. Learn how to create your own container runtime using Go and understand the difference between containers and virtual machines.
 
 ---
-
-## 🤝 Let's Connect
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/yashraj-narke/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ynnarke52@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!" alt="Typing SVG" />
 </div>
