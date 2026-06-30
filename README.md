@@ -132,15 +132,6 @@ A deep dive into how containers work under the hood, exploring Linux namespaces,
   </a>
 </div>
 
-## 🎵 Currently Playing
-
-<div align="center">
-  <img src="https://ltmnqdcypivcas.pythonanywhere.com/?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="Spotify Now Playing" />
-</div>
-
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A" alt="Typing SVG" />
 </div>
