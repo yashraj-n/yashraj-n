@@ -17,6 +17,12 @@ I am a Software Development Engineer (SDE) focused on building high-performance 
 - **Platform & Infrastructure** — Orchestrating applications with Docker/Kubernetes and managing cloud infrastructure.
 - **Full-Stack Development** — Building modern web interfaces integrated with reliable data layers and caching.
 
+
+### Magic
+Curl this page in your terminal for magic
+```bash
+curl https://github.com/yashraj-n
+```
 ---
 
 ## Tech Stack
